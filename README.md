@@ -1,6 +1,10 @@
 # 📊 TCS Financial Dashboard |  Excel SQL DAX Power BI
 
 ## 📌 Project Overview
+<img width="716" height="401" alt="TCS EXECUTIVE OVERVIEW DASHBOARD PAGE01" src="https://github.com/user-attachments/assets/7fbb1bf1-7f73-45e0-bc48-0aacdb09229b" />
+<img width="716" height="403" alt="TCS INCOME STATEMENT ANALYSIS DASHBORAD PAGE02" src="https://github.com/user-attachments/assets/d6265181-bf72-475d-be3a-b48a1be8a68c" />
+<img width="720" height="401" alt="TCS BALANCE SHEET ANALYSIS DASHBOARD PAGE03" src="https://github.com/user-attachments/assets/8473ce2d-73cf-4830-9cf9-4a31b4c724d6" />
+
 
 This project is an interactive **Power BI Financial Dashboard** built using Tata Consultancy Services (TCS) financial statements. It provides a comprehensive analysis of the company's financial performance through **Executive Overview, Income Statement Analysis, and Balance Sheet Analysis**.
 
